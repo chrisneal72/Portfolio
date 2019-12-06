@@ -1,0 +1,22 @@
+.landing-image {
+  position: absolute;
+	width: 100vw;
+	max-height: 275px;
+	background: url("/assets/images/top.jpg") no-repeat center;	
+	position: absolute;
+	top: 0px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,10);
+}
+
+.menu-row {
+  position: relative;
+  top: 275px;
+}
+
+.menu-col {
+  background-color: #fff;
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,10);
+}
