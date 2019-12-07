@@ -13,7 +13,7 @@ body {
   position: absolute;
   width: 100vw;
   max-height: 275px;
-  background: url("/assets/images/top.jpg") no-repeat center;
+  background: url("assets/images/top.jpg") no-repeat center;
   position: absolute;
   top: 0px;
   bottom: 0;
